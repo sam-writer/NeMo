@@ -27,7 +27,7 @@ lowfreq: 0
 highfreq: 22050
 window: hann
 
-whitelist_path: "nemo_text_processing/text_normalization/en/data/whitelist.tsv"
+whitelist_path: "nemo_text_processing/text_normalization/de/data/whitelist.tsv"
 
 model:
   learn_alignment: true
